@@ -10,7 +10,6 @@ var s = parseInt(number1) + parseInt(number2)
 var div = parseInt(number1) / parseInt(number2)
 var multi = parseInt(number1) * parseInt(number2)
 
-// soma não reproduzida, por conta de estar sendo reconhecida como string, irei resolver isto amanhã.
 window.alert("A soma dos valores é " + s)
 window.alert("A multiplicação dos valores é " + multi)
 window.alert("A divisão dos valores é " + div)
