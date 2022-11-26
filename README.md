@@ -1,4 +1,3 @@
-# web-test
 <h1>Calculator in JavaScript</h1>
 <p><b>Uma simples calculadora, programada em javascript.</b></p>
 
