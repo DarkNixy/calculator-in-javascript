@@ -1,7 +1,7 @@
 <h1>Calculator in JavaScript</h1>
 <p><b>Uma simples calculadora, programada em javascript.</b></p>
 
-<h1><b>Como funciona</b></h1>
+<h1><b>Como Funciona?</b></h1>
 <p><b>Obtém os valores em um Prompt exibido na página, adicionando a variável e calculado pelas vars dv, s e mt.</b></p>
 
 <h1><b>Cálculo</b></h1>
