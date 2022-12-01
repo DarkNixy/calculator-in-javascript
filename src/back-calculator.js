@@ -3,11 +3,15 @@ em variáveis number1 e number2, no final exibindo o resultado finala ao usuári
 */
 var nome = window.prompt("Digite seu Nome:")
 window.alert("Olá " + nome + ", Boas vindas.")
+
 var number1 = window.prompt("Digite um Número:")
 var number2 = window.prompt("Digite outro Número:")
+
 var s = parseInt(number1) + parseInt(number2)
 var div = parseInt(number1) / parseInt(number2)
 var multi = parseInt(number1) * parseInt(number2)
+
+
 
 ///////////////////////////////////////////
 window.alert("A soma dos valores é " + s)///////////////
